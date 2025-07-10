@@ -12,6 +12,7 @@ const Card = () => {
       </div>
     );
   }
+  
 
   return (
     <div className="card">
