@@ -4,12 +4,6 @@
 
 **🔗 Live Site:** [https://ni15raj.github.io/Weather-App](https://ni15raj.github.io/Weather-App)
 
----
-
-## 📸 Preview
-
-![Weather App Screenshot](https://via.placeholder.com/800x400?text=Weather+App+Screenshot)
-<!-- Replace with your actual screenshot URL or image -->
 
 ---
 
